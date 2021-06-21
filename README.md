@@ -14,20 +14,26 @@ Readme Generator is an application created by Node.js and npm's inquirer that al
 - [Test](#Test)
 - [Repository Link](#Repository)
 - [GitHub Info](#GitHub) 
+- 
 ## Installation
-        2
+
+        
 ## Usage
-3
+
+
 ## Licence
-4
+No License
+
 ## Contributors
-5
+
+
 ## Test
-6
+
+
 ## Repository
 - [Project Repo](link)
+- 
 ## GitHub
 ![Image of me](https://avatars.githubusercontent.com/u/80090287?v=4)
-- null
 - [GitHub Profile](https://github.com/jhwang2525)
-- <null>
+
