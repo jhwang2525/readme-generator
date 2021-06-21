@@ -12,7 +12,7 @@ const questions = [
     {
         type: "input",
         name: "badge",
-        message: "Please provide the badges links that you want"
+        message: "Please provide the badges links"
     },
     {
         type: "input",
@@ -37,7 +37,7 @@ const questions = [
     {
         type: "input",
         name: "contributing",
-        message: "Please provide the contributing parties"
+        message: "Please provide the contributors"
     },
     {
         type: "input",
