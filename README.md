@@ -27,7 +27,7 @@ No License
 
 
 ## Test
-![Alt Text](https://drive.google.com/file/d/1xjYgwMVy43jA_k1P1C3ouUmx-us84lOG/view)
+![Alt Text](https://github.com/jhwang2525/readme-generator/blob/main/test-example.gif?raw=true)
 
 ## Repository
 - [Project Repo](https://github.com/jhwang2525/readme-generator/blob/main/README.md#Repository)
