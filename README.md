@@ -34,5 +34,5 @@ No License
 - 
 ## GitHub
 ![Image of me](https://avatars.githubusercontent.com/u/80090287?v=4)
-- [GitHub Profile](https://github.com/jhwang2525)
+- [GitHub Profile](https://github.com/jhwang252)
 
