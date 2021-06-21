@@ -30,7 +30,7 @@ No License
 
 
 ## Repository
-- [Project Repo](link)
+- [Project Repo]https://github.com/jhwang2525/readme-generator/blob/main/README.md#Repository(link)
 - 
 ## GitHub
 ![Image of me](https://avatars.githubusercontent.com/u/80090287?v=4)
