@@ -1,6 +1,7 @@
 
 # **ReadMe-Generator**
-1
+README Generator is an application created by Node.js and npm's inquirer that allows the user to create a professional README.
+
 ## Description 
 ReadMe Generator
 ## Table of contents
